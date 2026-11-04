@@ -2,6 +2,19 @@
   "version": 1,
   "articles": [
     {
+      "id": "3b639e90460941e8982d6976149fd9bb",
+      "title": "アモーダル補完を使ったデザインツール あ！もーだる",
+      "tags": [
+        "technique"
+      ],
+      "excerpt": "アモーダル補完を使ったデザインツール あ！もーだる [technique]  2026/6/11 アモーダル補完を使ったデザインツールを作った。 - [https://santa-s4nt4.github.io/a-modal/ あ！もーだる] - [https://github.com/santa-s4nt4/a-m",
+      "updatedAt": 1793830321629,
+      "markdownPath": "posts/アモーダル補完を使ったデザインツール あ！もーだる--3b639e90460941e8982d6976149fd9bb.md",
+      "assets": [],
+      "contentHash": "76ee8298995cbaa6a38a5d1bdaa35c8ad4d88993cb448299cbe470eb9c944f3a",
+      "revision": "057b689f-5789-4c2f-aa24-943c59fe09ad"
+    },
+    {
       "id": "3dc882521ad247f59caf5adb90372cd9",
       "title": "About",
       "tags": [
@@ -30,6 +43,10 @@
   "states": {
     "3dc882521ad247f59caf5adb90372cd9": {
       "revision": "94afa8b3-4a8c-4351-9c60-eebe31dff489",
+      "visibility": "public"
+    },
+    "3b639e90460941e8982d6976149fd9bb": {
+      "revision": "057b689f-5789-4c2f-aa24-943c59fe09ad",
       "visibility": "public"
     }
   }
