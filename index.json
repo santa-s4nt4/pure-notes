@@ -1,5 +1,36 @@
 {
   "version": 1,
-  "articles": [],
-  "states": {}
+  "articles": [
+    {
+      "id": "3dc882521ad247f59caf5adb90372cd9",
+      "title": "About",
+      "tags": [
+        "Sight / Insight",
+        "Interactive Afflatus",
+        "Sonic Aquarium",
+        "Points. 501-0406",
+        "肉の上を粘菌は通った",
+        "ANDROID OPERA MIRROR ― Deconstruction and Rebirth ― 解体と再生",
+        "VJ works",
+        "ANDROID OPERA TOKYO",
+        "AAAMYYY \"OPTION C\"",
+        "Morphing Identity",
+        "Afflatus Spectrum"
+      ],
+      "excerpt": "About ![](assets/img_1793804040003_53b57a4f44.webp) 成瀬 陽太 / Santa NARUSE  アーティスト / 映像作家。 2000年生まれ。大阪府出身。2023年、慶應義塾大学環境情報学部卒業。2025年、情報科学芸術大学院大学(IAMAS) メディア表現専攻博士",
+      "updatedAt": 1793827833381,
+      "markdownPath": "posts/About--3dc882521ad247f59caf5adb90372cd9.md",
+      "assets": [
+        "assets/53b57a4f44cd2006fec8b9d7def037d407b9260f0bb231d9345721c9f2306cdf.webp"
+      ],
+      "contentHash": "9a054a65852cb1efca981e4af7da6d5def38dcc52d0181fd71329b1ea0ea47b2",
+      "revision": "94afa8b3-4a8c-4351-9c60-eebe31dff489"
+    }
+  ],
+  "states": {
+    "3dc882521ad247f59caf5adb90372cd9": {
+      "revision": "94afa8b3-4a8c-4351-9c60-eebe31dff489",
+      "visibility": "public"
+    }
+  }
 }
