@@ -2,19 +2,6 @@
   "version": 1,
   "articles": [
     {
-      "id": "3b639e90460941e8982d6976149fd9bb",
-      "title": "アモーダル補完を使ったデザインツール あ！もーだる",
-      "tags": [
-        "technique"
-      ],
-      "excerpt": "アモーダル補完を使ったデザインツール あ！もーだる [technique]  2026/6/11 アモーダル補完を使ったデザインツールを作った。 - [https://santa-s4nt4.github.io/a-modal/ あ！もーだる] - [https://github.com/santa-s4nt4/a-m",
-      "updatedAt": 1793830321629,
-      "markdownPath": "posts/アモーダル補完を使ったデザインツール あ！もーだる--3b639e90460941e8982d6976149fd9bb.md",
-      "assets": [],
-      "contentHash": "76ee8298995cbaa6a38a5d1bdaa35c8ad4d88993cb448299cbe470eb9c944f3a",
-      "revision": "057b689f-5789-4c2f-aa24-943c59fe09ad"
-    },
-    {
       "id": "3dc882521ad247f59caf5adb90372cd9",
       "title": "About",
       "tags": [
@@ -31,13 +18,26 @@
         "Afflatus Spectrum"
       ],
       "excerpt": "About ![](assets/img_1793804040003_53b57a4f44.webp) 成瀬 陽太 / Santa NARUSE アーティスト / 映像作家。 2000年生まれ。大阪府出身。2023年、慶應義塾大学環境情報学部卒業。2025年、情報科学芸術大学院大学(IAMAS) メディア表現専攻博士前",
-      "updatedAt": 1793828874902,
+      "updatedAt": 1793830630462,
       "markdownPath": "posts/About--3dc882521ad247f59caf5adb90372cd9.md",
       "assets": [
         "assets/53b57a4f44cd2006fec8b9d7def037d407b9260f0bb231d9345721c9f2306cdf.webp"
       ],
-      "contentHash": "065c1a7dbfde8100162768a13ec87eda231e79742a11d31b0cee1814372bf706",
+      "contentHash": "ac8992f48975b6346abdb28ff90cf7a9c47338e84e8d849d8c7b15449f93cb27",
       "revision": "94afa8b3-4a8c-4351-9c60-eebe31dff489"
+    },
+    {
+      "id": "3b639e90460941e8982d6976149fd9bb",
+      "title": "アモーダル補完を使ったデザインツール あ！もーだる",
+      "tags": [
+        "technique"
+      ],
+      "excerpt": "アモーダル補完を使ったデザインツール あ！もーだる [technique]  2026/6/11 アモーダル補完を使ったデザインツールを作った。 - [https://santa-s4nt4.github.io/a-modal/ あ！もーだる] - [https://github.com/santa-s4nt4/a-m",
+      "updatedAt": 1793830321629,
+      "markdownPath": "posts/アモーダル補完を使ったデザインツール あ！もーだる--3b639e90460941e8982d6976149fd9bb.md",
+      "assets": [],
+      "contentHash": "76ee8298995cbaa6a38a5d1bdaa35c8ad4d88993cb448299cbe470eb9c944f3a",
+      "revision": "057b689f-5789-4c2f-aa24-943c59fe09ad"
     }
   ],
   "states": {
