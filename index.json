@@ -17,11 +17,13 @@
         "Morphing Identity",
         "Afflatus Spectrum"
       ],
-      "excerpt": "About  [https://lh3.googleusercontent.com/pw/AP1GczNVUdtC9-5cA2YH35-GKzSJhKLwwDU7sKCoU3GyNFV6YlRXXBFjxH1AxJQrBFYIaou6Lii7s6Tk-szOR8_ABDER5h_PDV0Mm-zIITjruNqDce3",
-      "updatedAt": 1793828808000,
+      "excerpt": "About ![](assets/img_1793804040003_53b57a4f44.webp) 成瀬 陽太 / Santa NARUSE アーティスト / 映像作家。 2000年生まれ。大阪府出身。2023年、慶應義塾大学環境情報学部卒業。2025年、情報科学芸術大学院大学(IAMAS) メディア表現専攻博士前",
+      "updatedAt": 1793828816652,
       "markdownPath": "posts/About--3dc882521ad247f59caf5adb90372cd9.md",
-      "assets": [],
-      "contentHash": "3968f92f35620714b2fa0c85fd474c7728b0269f0e84d5ad98d9fcc9b9918bc9",
+      "assets": [
+        "assets/53b57a4f44cd2006fec8b9d7def037d407b9260f0bb231d9345721c9f2306cdf.webp"
+      ],
+      "contentHash": "0711f22cb409cdc6b7c5b63d9acdf9d60517f1af61b7e186e8024adefd10b839",
       "revision": "94afa8b3-4a8c-4351-9c60-eebe31dff489"
     }
   ],
