@@ -2,6 +2,20 @@
   "version": 1,
   "articles": [
     {
+      "id": "1d254cd59a376683879a27ebb4bd4bcf",
+      "title": "車窓 Of View 車窓",
+      "tags": [],
+      "excerpt": "車窓 Of View 車窓  2025, [art work](art%20work--c65f149b664a2d0cef9d8059ce89155c.md) ![](assets/scrapbox-2cd386e7eb2de341730dfcbaf3750d42.webp)   ![](assets/scrapbo",
+      "updatedAt": 1795768325924,
+      "markdownPath": "posts/車窓 Of View 車窓--1d254cd59a376683879a27ebb4bd4bcf.md",
+      "assets": [
+        "assets/acb21d3b05a28813e97402f43553c0124d1e8cd36e7f06bf5363d35647fbd710.webp",
+        "assets/c7c4ce94102b7f30c7eb98eb86e92257f1e389b5efb7953aa95d09a7ac44c790.webp"
+      ],
+      "contentHash": "48363bdd9a73320e771822d650211c0b6139b8139bb1daae6b3907319c2b75f5",
+      "revision": "dc85613e-366a-4d70-a66f-d520cada63f5"
+    },
+    {
       "id": "bba2a57f3f815ecef72be73624373f3e",
       "title": "AAAMYYY \"OPTION C\"",
       "tags": [],
@@ -81,6 +95,10 @@
     },
     "bba2a57f3f815ecef72be73624373f3e": {
       "revision": "e98b25c0-7ea7-4589-afd5-f6b6a8e9b396",
+      "visibility": "public"
+    },
+    "1d254cd59a376683879a27ebb4bd4bcf": {
+      "revision": "dc85613e-366a-4d70-a66f-d520cada63f5",
       "visibility": "public"
     }
   }
