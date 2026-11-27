@@ -2,6 +2,19 @@
   "version": 1,
   "articles": [
     {
+      "id": "7807335e3b1530975c8b3ccbfd47ae76",
+      "title": "Morphing Identity",
+      "tags": [],
+      "excerpt": "Morphing Identity  2023-2022, [client work](client%20work--82200cd4d093785cb17be704505c73f9.md) ![](assets/scrapbox-f75677f72d6265276ce45f58518b1dd0.webp) [http",
+      "updatedAt": 1795768358244,
+      "markdownPath": "posts/Morphing Identity--7807335e3b1530975c8b3ccbfd47ae76.md",
+      "assets": [
+        "assets/99a00985b0c34ebe89b2f75bdb03e510eef0b8bc8b267119a8f207f0470d6521.webp"
+      ],
+      "contentHash": "19c8e2f64a37e7f4c886be485f3e42c150356eda8006f29b937fd1aaa63475bd",
+      "revision": "2b8edec6-99ef-420a-a5f9-50f98de38b6b"
+    },
+    {
       "id": "1d254cd59a376683879a27ebb4bd4bcf",
       "title": "車窓 Of View 車窓",
       "tags": [],
@@ -99,6 +112,10 @@
     },
     "1d254cd59a376683879a27ebb4bd4bcf": {
       "revision": "dc85613e-366a-4d70-a66f-d520cada63f5",
+      "visibility": "public"
+    },
+    "7807335e3b1530975c8b3ccbfd47ae76": {
+      "revision": "2b8edec6-99ef-420a-a5f9-50f98de38b6b",
       "visibility": "public"
     }
   }
