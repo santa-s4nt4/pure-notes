@@ -2,6 +2,19 @@
   "version": 1,
   "articles": [
     {
+      "id": "bba2a57f3f815ecef72be73624373f3e",
+      "title": "AAAMYYY \"OPTION C\"",
+      "tags": [],
+      "excerpt": "AAAMYYY \"OPTION C\"  2024, [client work](client%20work--82200cd4d093785cb17be704505c73f9.md) ![](assets/scrapbox-369c775b07c8254fe35100438ba9bd27.webp) [https://",
+      "updatedAt": 1795768279139,
+      "markdownPath": "posts/AAAMYYY OPTION C--bba2a57f3f815ecef72be73624373f3e.md",
+      "assets": [
+        "assets/abf25c7129d9dd4bf12370829e7008db101467e8f11e75ba672bdf6a19e1dd52.webp"
+      ],
+      "contentHash": "91ef7033da6277c51635f4df49f3e734299f0e00c68d6bcc44fc76d614c8d02c",
+      "revision": "e98b25c0-7ea7-4589-afd5-f6b6a8e9b396"
+    },
+    {
       "id": "5899eaa38a272fd71a338a1075352ce1",
       "title": "electric catfish",
       "tags": [],
@@ -64,6 +77,10 @@
     },
     "5899eaa38a272fd71a338a1075352ce1": {
       "revision": "76f0c98a-ce58-4156-9bf4-c50085169e41",
+      "visibility": "public"
+    },
+    "bba2a57f3f815ecef72be73624373f3e": {
+      "revision": "e98b25c0-7ea7-4589-afd5-f6b6a8e9b396",
       "visibility": "public"
     }
   }
