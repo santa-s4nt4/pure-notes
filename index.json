@@ -2,6 +2,20 @@
   "version": 1,
   "articles": [
     {
+      "id": "3ce3c9b6f9285c14ca928a2af4a92665",
+      "title": "Interactive Afflatus",
+      "tags": [],
+      "excerpt": "Interactive Afflatus  2023-2022, [art work](art%20work--c65f149b664a2d0cef9d8059ce89155c.md) ![](assets/scrapbox-fd023cce6910ce5ba711e7c1e8d6277c.webp)   ![](as",
+      "updatedAt": 1795768430328,
+      "markdownPath": "posts/Interactive Afflatus--3ce3c9b6f9285c14ca928a2af4a92665.md",
+      "assets": [
+        "assets/0845fddde64a271581602aa9ba80673326271a987606f0237aaea9e6c678dbb3.webp",
+        "assets/38a54396397c84ca95458ba56e6da8ff86035176c007d4b1d0bb01281585acb0.webp"
+      ],
+      "contentHash": "a9c15f5a789097aeba8aa8396ffc9de95592506794444bab90c61590f7586daa",
+      "revision": "01f61621-7f9f-4d52-ba9d-9a9e90f3fbd3"
+    },
+    {
       "id": "dc3fdafcfb15572eca6f601e18266ba3",
       "title": "ANDROID OPERA MIRROR ― Deconstruction and Rebirth ― 解体と再生",
       "tags": [],
@@ -133,6 +147,10 @@
     },
     "dc3fdafcfb15572eca6f601e18266ba3": {
       "revision": "96a1cf6d-cf63-4add-9739-818950582306",
+      "visibility": "public"
+    },
+    "3ce3c9b6f9285c14ca928a2af4a92665": {
+      "revision": "01f61621-7f9f-4d52-ba9d-9a9e90f3fbd3",
       "visibility": "public"
     }
   }
