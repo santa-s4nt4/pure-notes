@@ -2,6 +2,19 @@
   "version": 1,
   "articles": [
     {
+      "id": "5899eaa38a272fd71a338a1075352ce1",
+      "title": "electric catfish",
+      "tags": [],
+      "excerpt": "electric catfish  2025-2023, [art work](art%20work--c65f149b664a2d0cef9d8059ce89155c.md) ![](assets/scrapbox-5f29606c69dda20a971c2449c30efe97.webp) Santa Naruse",
+      "updatedAt": 1795768238975,
+      "markdownPath": "posts/electric catfish--5899eaa38a272fd71a338a1075352ce1.md",
+      "assets": [
+        "assets/61c20d209635a342a7df2192d9fa04b5218a0f5979ad565224d70cba30588ff5.webp"
+      ],
+      "contentHash": "b5dcc465bcd44af7784b6a85358cdf1ba3b54321228cef06b6e6a70a765a4dc6",
+      "revision": "76f0c98a-ce58-4156-9bf4-c50085169e41"
+    },
+    {
       "id": "3dc882521ad247f59caf5adb90372cd9",
       "title": "About",
       "tags": [
@@ -47,6 +60,10 @@
     },
     "3b639e90460941e8982d6976149fd9bb": {
       "revision": "057b689f-5789-4c2f-aa24-943c59fe09ad",
+      "visibility": "public"
+    },
+    "5899eaa38a272fd71a338a1075352ce1": {
+      "revision": "76f0c98a-ce58-4156-9bf4-c50085169e41",
       "visibility": "public"
     }
   }
